@@ -3,7 +3,7 @@ import java.sql.ResultSet;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class EjemploStatementwars {
+public class EjemploPreparedStatementwars {
 
     
     public static void main(String[] args) throws SQLException {
